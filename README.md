@@ -7,8 +7,8 @@ Learning [p5.js](http://p5js.org/)
 Exploring Nonlinear Narrative (Basic)
 -----------
 
-The Three Little Pigs
------------
+### The Three Little Pigs
+
 Once upon a time there were three little pigs.
 **Based on the Kadenze Assesment for the P5JS Course.**
 Adapt an existing story or part of a story (e.g. a fable, film, novel, etc.) into a nonlinear narrative
