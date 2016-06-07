@@ -71,7 +71,7 @@ function draw() {
     text("practical", width * .66, height / 2 + sizePig / 1.5);
   }
 
-  //1A-THE FIDER STORY
+  //1A-THE FIFER STORY
   else if (state === "fiferPath") {
     background('#1DAFEC');
     textSize(descriptionText);
@@ -88,7 +88,7 @@ function draw() {
     text("*yes, this is very funny!", width / 2, height * .90);
   }
 
-  //1B-FIDER RUN TO FIDDLER
+  //1B-FIFER RUNS TO FIDDLER
   else if (state === "run-to-fiddler") {
     background('#1DAFEC');
     textSize(descriptionText);
@@ -144,7 +144,7 @@ function draw() {
     text("Type 'restart' to go back to the beginning", width / 2, height / 2 + sizePig / 1.5);
   }
 
-  //3-PRACTICAL PATH
+  //3-THE PRACTICAL STORY
   else if (state === "practicalPath") {
     background('#FEF035');
     image(brick, width * .5, height * .32, 400, 400 / objectH);
