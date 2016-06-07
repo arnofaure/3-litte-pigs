@@ -181,6 +181,7 @@ function draw() {
   action = input.value();
   actionStory();
 
+  textStyle(NORMAL);
   textSize(40);
   textFont("Pacifico");
   text("The Three  Little Pigs", width / 2, height * .10);
